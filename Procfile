@@ -1,0 +1,1 @@
+web: gunicorn ccfdproject.wsgi --log-file -
